@@ -1,2 +1,21 @@
-# hirepilot-ai
-An AI Agent which can send automated cold to recuritters depending on the job role also can attach different resumes on the basis of different roles
+# HirePilot AI
+
+Multi-Agent AI Job Application Automation Platform
+
+## Tech Stack
+
+- React
+- FastAPI
+- LangChain
+- LangGraph
+- PostgreSQL
+- ChromaDB
+- Tailwind CSS
+
+## Features
+
+- AI cold email generation
+- Resume selection agent
+- Recruiter outreach automation
+- Follow-up automation
+- Analytics dashboard
