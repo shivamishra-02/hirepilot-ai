@@ -12,7 +12,7 @@ Multi-Agent AI Job Application Automation Platform
 - ChromaDB
 - Tailwind CSS
 
-## Features
+## Features of the platform
 
 - AI cold email generation
 - Resume selection agent
