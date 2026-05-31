@@ -2,7 +2,7 @@
 
 Multi-Agent AI Job Application Automation Platform
 
-## Tech Stack
+## Tech Stack Used to Make this Project
 
 - React
 - FastAPI
