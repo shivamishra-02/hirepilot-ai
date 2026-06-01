@@ -19,3 +19,7 @@ Multi-Agent AI Job Application Automation Platform
 - Recruiter outreach automation
 - Follow-up automation
 - Analytics dashboard
+
+## Services to be added later
+- can be connected to the sheets
+- 
