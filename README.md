@@ -50,8 +50,8 @@ No browser extensions. No Zapier. No monthly SaaS fees. Just your Google account
 │                                                                 │
 │  ┌──────────────┐    triggers     ┌────────────────────────┐    │
 │  │ Google Sheet │ ──────────────▶ │   Apps Script (Code.gs)│    │
-│  │  (Job Input) │                 │   — Main Orchestrator  │    │
-│  └──────────────┘                 └───────────┬────────────┘    │
+│  │  (Job Input) │                 │   — Main Orchestrator  │    │     Designed & Coded By:-
+│  └──────────────┘                 └───────────┬────────────┘    │        Shivam Mishra
 │                                               │                 │
 │                          ┌────────────────────┼──────────────┐  │
 │                          │                    │              │  │
